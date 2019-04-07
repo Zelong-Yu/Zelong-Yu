@@ -51,8 +51,8 @@ namespace MVCDemo
             //    clientSecret: "");
 
             app.UseTwitterAuthentication(
-               consumerKey: "Gsejbtgt0qlnkvcH5Hvdew",
-               consumerSecret: "4rGDcpoZdTAJHGylMEXjGsRyedm6mXOI3hluQ39tr0"); 
+               consumerKey: "",
+               consumerSecret: "");
 
             //app.UseFacebookAuthentication(
             //   appId: "",
